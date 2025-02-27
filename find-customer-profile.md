@@ -6,6 +6,8 @@ You can find a customer’s profile on admin in four simple steps.
 
 Go to the section titled **“Customers”**, located on the upper left side of your admin’s taskbar.
 
+[<img src="images/find-customer-profile-1.png">]()
+
 ### 2. Choose a Search Option
 
 You will see this screen pop up. If you click on the dropdown option on the left, you will be able to see the full list of options you have to search a customer’s profile. As shown in the screenshot below, you can find a profile with the customer’s name, phone number, license plate, RFID tag number, email, or the last four digits of their credit card on file.
